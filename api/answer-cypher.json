@@ -1,1 +1,30 @@
-[{"date":"2024-07-22","answer":"LOCKER"},{"date":"2024-07-21","answer":""},{"date":"2024-07-20","answer":""},{"date":"2024-07-19","answer":""},{"date":"2024-07-18","answer":""},{"date":"2024-07-17","answer":""},{"date":"2024-07-16","answer":"DEX"}]
+[
+  {
+    "date": "2024-07-23",
+    "answer": "BIP"
+  },
+  {
+    "date": "2024-07-22",
+    "answer": "LOCKER"
+  },
+  {
+    "date": "2024-07-21",
+    "answer": "REWARD"
+  },
+  {
+    "date": "2024-07-20",
+    "answer": "BEACON"
+  },
+  {
+    "date": "2024-07-19",
+    "answer": "ALPHA"
+  },
+  {
+    "date": "2024-07-18",
+    "answer": "YIELD"
+  },
+  {
+    "date": "2024-07-17",
+    "answer": "LOOP"
+  }
+]
